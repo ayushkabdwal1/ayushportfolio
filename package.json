@@ -1,0 +1,16 @@
+{
+  "name": "responsive-portfolio-website-main",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yamini",
+  "license": "ISC",
+  "dependencies": {
+    "@emailjs/browser": "^3.10.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
